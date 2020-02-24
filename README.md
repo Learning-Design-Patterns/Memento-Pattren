@@ -5,4 +5,5 @@
 	* Editor State Class (Memento)
 	* History Class (Care Taker)
 	
+![Memento Pattern](https://github.com/Learning-Design-Patterns/Images/blob/master/Memento%20Pattern/MementoPattern.PNG)
 	
